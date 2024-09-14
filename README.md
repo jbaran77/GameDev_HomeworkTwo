@@ -2,7 +2,7 @@ John Baran
 CSC 3150 Game Development Homework 2
 Answers to questions 3 and 5
 
-##Question 5
+## Question 5
 
 **Mesh Renderer**: used to render 3D objects in game in 2D representation. Uses geometric attributes of the object or environment to do so. <br>
 **Box Collider**: defines box shaped collision area around object. Used to simulate physical interactions between components. Similar to a 'hitbox' in a shooting game. <br>
